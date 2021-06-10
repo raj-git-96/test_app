@@ -1,0 +1,459 @@
+{
+  "Players": [
+    {
+      "id": 109,
+      "jersyNo": "4",
+      "firstName": "Irfan",
+      "lastName": "Khan",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/32685.jpg",
+      "country": "india"
+    },
+    {
+      "id": 110,
+      "jersyNo": "5",
+      "firstName": "Ravichandran",
+      "lastName": "Ashwin",
+      "teamId": 2,
+      "avatar": "http://cricapi.com/playerpic/26421.jpg",
+      "country": "india"
+    },
+    {
+      "id": 111,
+      "jersyNo": "6",
+      "firstName": "Mithali",
+      "lastName": "Dorai",
+      "teamId": 3,
+      "avatar": "http://cricapi.com/playerpic/54273.jpg",
+      "country": "india"
+    },
+    {
+      "id": 112,
+      "jersyNo": "7",
+      "firstName": "Jhulan",
+      "lastName": "Nishit",
+      "teamId": 4,
+      "avatar": "https://cricapi.com/playerpic/53932.jpg",
+      "country": "india"
+    },
+    {
+      "id": 113,
+      "jersyNo": "8",
+      "firstName": "Harmanpreet",
+      "lastName": "Kaur",
+      "teamId": 5,
+      "avatar": "https://cricapi.com/playerpic/372317.jpg",
+      "country": "india"
+    },
+    {
+      "id": 114,
+      "jersyNo": "9",
+      "firstName": "Milind",
+      "lastName": "Tandon",
+      "teamId": 6,
+      "avatar": "https://cricapi.com/playerpic/969381.jpg",
+      "country": "india"
+    },
+    {
+      "id": 115,
+      "jersyNo": "10",
+      "firstName": "Manoj",
+      "lastName": "Kumar",
+      "teamId": 7,
+      "avatar": "https://cricapi.com/playerpic/35565.jpg",
+      "country": "india"
+    },
+    {
+      "id": 116,
+      "jersyNo": "11",
+      "firstName": "Jaydev",
+      "lastName": "Dipakbhai",
+      "teamId": 8,
+      "avatar": "http://cricapi.com/playerpic/390484.jpg",
+      "country": "india"
+    },
+    {
+      "id": 117,
+      "jersyNo": "12",
+      "firstName": "Washington",
+      "lastName": "Sundar",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/719715.jpg",
+      "country": "india"
+    },
+    {
+      "id": 118,
+      "jersyNo": "13",
+      "firstName": "Ankit",
+      "lastName": "Ramdas",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/327123.jpg",
+      "country": "india"
+    },
+    {
+      "id": 119,
+      "jersyNo": "14",
+      "firstName": "Khaleel",
+      "lastName": "Khursheed",
+      "teamId": 2,
+      "avatar": "http://cricapi.com/playerpic/942645.jpg",
+      "country": "india"
+    },
+    {
+      "id": 120,
+      "jersyNo": "15",
+      "firstName": "Murugan",
+      "lastName": "Ashwin",
+      "teamId": 3,
+      "avatar": "https://cricapi.com/playerpic/528067.jpg",
+      "country": "india"
+    },
+    {
+      "id": 121,
+      "jersyNo": "1",
+      "firstName": "Shreyas",
+      "lastName": "Santosh",
+      "teamId": 4,
+      "avatar": "http://cricapi.com/playerpic/642519.jpg",
+      "country": "india"
+    },
+    {
+      "id": 122,
+      "jersyNo": "2",
+      "firstName": "Chama",
+      "lastName": "V",
+      "teamId": 5,
+      "avatar": "http://cricapi.com/playerpic/604616.jpg",
+      "country": "india"
+    },
+    {
+      "id": 123,
+      "jersyNo": "3",
+      "firstName": "Mohammed",
+      "lastName": "Shami",
+      "teamId": 6,
+      "avatar": "http://cricapi.com/playerpic/481896.jpg",
+      "country": "india"
+    },
+    {
+      "id": 124,
+      "jersyNo": "4",
+      "firstName": "Pratyush",
+      "lastName": "Singh",
+      "teamId": 7,
+      "avatar": "https://cricapi.com/playerpic/717205.jpg",
+      "country": "india"
+    },
+    {
+      "id": 125,
+      "jersyNo": "5",
+      "firstName": "Navdeep",
+      "lastName": "Amarjeet",
+      "teamId": 8,
+      "avatar": "https://cricapi.com/playerpic/700167.jpg",
+      "country": "india"
+    },
+    {
+      "id": 126,
+      "jersyNo": "6",
+      "firstName": "Shashank",
+      "lastName": "Singh",
+      "teamId": 1,
+      "avatar": "https://cricapi.com/playerpic/377534.jpg",
+      "country": "india"
+    },
+    {
+      "id": 127,
+      "jersyNo": "7",
+      "firstName": "Jayant",
+      "lastName": "Yadav",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/447587.jpg",
+      "country": "india"
+    },
+    {
+      "id": 128,
+      "jersyNo": "8",
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "teamId": 2,
+      "avatar": "http://cricapi.com/playerpic/253802.jpg",
+      "country": "india"
+    },
+    {
+      "id": 129,
+      "jersyNo": "9",
+      "firstName": "Sandeep",
+      "lastName": "Sharma",
+      "teamId": 3,
+      "avatar": "https://cricapi.com/playerpic/438362.jpg",
+      "country": "india"
+    },
+    {
+      "id": 130,
+      "jersyNo": "10",
+      "firstName": "Ambati",
+      "lastName": "Thirupathi",
+      "teamId": 4,
+      "avatar": "http://cricapi.com/playerpic/33141.jpg",
+      "country": "india"
+    },
+    {
+      "id": 131,
+      "jersyNo": "11",
+      "firstName": "Abhimanyu",
+      "lastName": "Mithun",
+      "teamId": 5,
+      "avatar": "http://cricapi.com/playerpic/310958.jpg",
+      "country": "india"
+    },
+    {
+      "id": 132,
+      "jersyNo": "12",
+      "firstName": "Piyush",
+      "lastName": "Pramod",
+      "teamId": 6,
+      "avatar": "https://cricapi.com/playerpic/32966.jpg",
+      "country": "india"
+    },
+    {
+      "id": 133,
+      "jersyNo": "13",
+      "firstName": "Siddhesh",
+      "lastName": "Dinesh",
+      "teamId": 7,
+      "avatar": "https://cricapi.com/playerpic/422342.jpg",
+      "country": "india"
+    },
+    {
+      "id": 134,
+      "jersyNo": "14",
+      "firstName": "Harpreet",
+      "lastName": "Singh",
+      "teamId": 8,
+      "avatar": "http://cricapi.com/playerpic/340854.jpg",
+      "country": "india"
+    },
+    {
+      "id": 135,
+      "jersyNo": "15",
+      "firstName": "Irfan",
+      "lastName": "Khan",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/32685.jpg",
+      "country": "india"
+    },
+    {
+      "id": 136,
+      "jersyNo": "1",
+      "firstName": "Ankit",
+      "lastName": "Soni",
+      "teamId": 1,
+      "avatar": "http://cricapi.com/playerpic/1083128.jpg",
+      "country": "india"
+    },
+    {
+      "id": 137,
+      "jersyNo": "2",
+      "firstName": "Ravichandran",
+      "lastName": "Ashwin",
+      "teamId": 2,
+      "avatar": "http://cricapi.com/playerpic/26421.jpg",
+      "country": "india"
+    },
+    {
+      "id": 138,
+      "jersyNo": "3",
+      "firstName": "Mithali",
+      "lastName": "Dorai",
+      "teamId": 3,
+      "avatar": "http://cricapi.com/playerpic/54273.jpg",
+      "country": "india"
+    },
+    {
+      "id": 139,
+      "jersyNo": "4",
+      "firstName": "Ekta",
+      "lastName": "Bisht",
+      "teamId": 4,
+      "avatar": "http://cricapi.com/playerpic/442048.jpg",
+      "country": "india"
+    },
+    {
+      "id": 140,
+      "jersyNo": "5",
+      "firstName": "Rajeshwari",
+      "lastName": "Shivanand",
+      "teamId": 5,
+      "avatar": "https://cricapi.com/playerpic/709635.jpg",
+      "country": "india"
+    },
+    {
+      "id": 141,
+      "jersyNo": "6",
+      "firstName": "Jhulan",
+      "lastName": "Nishit",
+      "teamId": 6,
+      "avatar": "https://cricapi.com/playerpic/53932.jpg",
+      "country": "india"
+    },
+    {
+      "id": 142,
+      "jersyNo": "7",
+      "firstName": "Mansi",
+      "lastName": "Joshi",
+      "teamId": 7,
+      "avatar": "http://cricapi.com/playerpic/960815.jpg",
+      "country": "india"
+    },
+    {
+      "id": 143,
+      "jersyNo": "8",
+      "firstName": "Harmanpreet",
+      "lastName": "Kaur",
+      "teamId": 8,
+      "avatar": "https://cricapi.com/playerpic/372317.jpg",
+      "country": "india"
+    },
+    {
+      "id": 144,
+      "jersyNo": "9",
+      "firstName": "Veda",
+      "lastName": "Krishnamurthy",
+      "teamId": 1,
+      "avatar": "https://cricapi.com/playerpic/442205.jpg",
+      "country": "india"
+    },
+    {
+      "id": 145,
+      "jersyNo": "10",
+      "firstName": "Smriti",
+      "lastName": "Shriniwas",
+      "teamId": 1,
+      "avatar": "https://cricapi.com/playerpic/597806.jpg",
+      "country": "india"
+    },
+    {
+      "id": 146,
+      "jersyNo": "11",
+      "firstName": "Mona",
+      "lastName": "Rajesh",
+      "teamId": 2,
+      "avatar": "http://cricapi.com/playerpic/490624.jpg",
+      "country": "india"
+    },
+    {
+      "id": 147,
+      "jersyNo": "12",
+      "firstName": "Shikha",
+      "lastName": "Subas",
+      "teamId": 3,
+      "avatar": "https://cricapi.com/playerpic/442145.jpg",
+      "country": "india"
+    },
+    {
+      "id": 148,
+      "jersyNo": "13",
+      "firstName": "Poonam",
+      "lastName": "Yadav",
+      "teamId": 4,
+      "avatar": "https://cricapi.com/playerpic/630972.jpg",
+      "country": "india"
+    },
+    {
+      "id": 149,
+      "jersyNo": "14",
+      "firstName": "Nuzhat",
+      "lastName": "Masih",
+      "teamId": 5,
+      "avatar": "http://cricapi.com/playerpic/960973.jpg",
+      "country": "india"
+    },
+    {
+      "id": 150,
+      "jersyNo": "15",
+      "firstName": "Punam",
+      "lastName": "Ganesh",
+      "teamId": 6,
+      "avatar": "https://cricapi.com/playerpic/360401.jpg",
+      "country": "india"
+    },
+    {
+      "id": 151,
+      "jersyNo": "1",
+      "firstName": "Deepti",
+      "lastName": "Bhagwan",
+      "teamId": 7,
+      "avatar": "http://cricapi.com/playerpic/597811.jpg",
+      "country": "india"
+    },
+    {
+      "id": 152,
+      "jersyNo": "2",
+      "firstName": "Sushma",
+      "lastName": "Verma",
+      "teamId": 8,
+      "avatar": "http://cricapi.com/playerpic/597821.jpg",
+      "country": "india"
+    },
+    {
+      "id": 153,
+      "jersyNo": "3",
+      "firstName": "Kannaur",
+      "lastName": "Lokesh",
+      "teamId": 1,
+      "avatar": "https://cricapi.com/playerpic/422108.jpg",
+      "country": "india"
+    }
+  ],
+  "Team": [
+    {
+      "id": 1,
+      "name": "Mumbai Indians",
+      "avatar": "Mumbai.png",
+      "clubState": "Mumbai"
+    },
+    {
+      "id": 2,
+      "name": "Rising Pune Supergiant",
+      "avatar": "Pune.jpeg",
+      "clubState": "Pune"
+    },
+    {
+      "id": 3,
+      "name": "Kolkata Knight Riders",
+      "avatar": "Kolkata.png",
+      "clubState": "Kolkata"
+    },
+    {
+      "id": 4,
+      "name": "Royal Challengers Bangalore",
+      "avatar": "Bangalore.png",
+      "clubState": "Bangalore"
+    },
+    {
+      "id": 5,
+      "name": "Gujarat Lions",
+      "avatar": "Gujarat.jpeg",
+      "clubState": "Gujarat"
+    },
+    {
+      "id": 6,
+      "name": "Delhi Daredevils",
+      "avatar": "Delhi.png",
+      "clubState": "Delhi"
+    },
+    {
+      "id": 7,
+      "name": "Kings XI Punjab",
+      "avatar": "Punjab.jpeg",
+      "clubState": "Punjab"
+    },
+    {
+      "id": 8,
+      "name": "Sunrisers Hyderabad",
+      "avatar": "Hyderabad.png",
+      "clubState": "Hyderaba"
+    }
+  ]
+}
